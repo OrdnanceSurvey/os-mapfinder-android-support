@@ -12,11 +12,10 @@ A prepared database can be downloaded manually.
    * **launch** OS MapFinder on the Android phone
 
 ## Amazon Kindle Instructions ##
+Note: on Windows the Kindle device should appear and you should navigate from the "Android" directory.
+
    * On the Kindle storage, **ensure that following directory structure exists** (create if necessary):
      * /sdcard/Android/data/uk.co.ordnancesurvey.mobileapp.cola.amazon/files/gazetteer/
-
-(On Windows the Kindle device should appear and you should navigate from the "Android" directory)
-
    * **download the zip files** ([os_gazetteer.zip](os_gazetteer.zip), [os_gazetteer.z01](os_gazetteer.z01), [os_gazetteer.z02](os_gazetteer.z02)).
    * **unzip** os_gazetteer.zip
    * **move** os_gazetteer.sqlite from PC to /sdcard/Android/data/uk.co.ordnancesurvey.mobileapp.cola.amazon/files/gazetteer/ on the Kindle
