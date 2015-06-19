@@ -9,5 +9,13 @@ A prepared database can be downloaded manually.
    * **unzip** os_gazetteer.zip
    * **move** os_gazetteer.sqlite from PC to /sdcard/Android/data/uk.co.ordnancesurvey.mobileapp.cola/files/gazetteer/ on Android phone
      * Note: the above location can typically be accessed via Windows Explorer
-   * **launch** OS MapFinder on the Android phone
+   * **launch** OS MapFinder on the Android device
 
+## Amazon Kindle Instructions ##
+   * On the phone SD Card, **ensure that following directory structure exists** (create if necessary):
+     * /sdcard/Android/data/uk.co.ordnancesurvey.mobileapp.cola.amazon/files/gazetteer/
+   * **download the zip files** ([os_gazetteer.zip](os_gazetteer.zip), [os_gazetteer.z01](os_gazetteer.z01), [os_gazetteer.z02](os_gazetteer.z02)).
+   * **unzip** os_gazetteer.zip
+   * **move** os_gazetteer.sqlite from PC to /sdcard/Android/data/uk.co.ordnancesurvey.mobileapp.cola.amazon/files/gazetteer/ on Android phone
+     * Note: the above location can typically be accessed via Windows Explorer
+   * **launch** OS MapFinder on the Amazon Kindle device
